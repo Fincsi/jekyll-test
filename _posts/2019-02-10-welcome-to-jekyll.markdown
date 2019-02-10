@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Üdv az oldalon!"
 date:   2019-02-10 17:17:46 +0100
 categories: jekyll update
 ---
