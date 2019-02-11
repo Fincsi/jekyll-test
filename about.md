@@ -3,4 +3,4 @@ layout: page
 title: Rólam
 permalink: /Rólam/
 ---
-Nemrég elkezdtem a jekyll kurzust eddig ennyi sikerült. Nagy látványos változtatások még nem születtek de ami késik az jön mint mondani szokás.
+PTE Babits Gimnázium tanulójaként nemrég elkezdtem a jekyll kurzust eddig ennyi sikerült. Nagy látványos változtatások még nem születtek de ami késik az jön, mint mondani szokás. 
