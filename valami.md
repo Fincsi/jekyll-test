@@ -1,6 +1,6 @@
 ---
 layout: page
-title: valami
-permalink: /valami/
+title: Valami
+permalink: /Valami/
 ---
-Nem sok dolog változott de azért van valami már 
+Nem sok dolog változott de azért van valami már
